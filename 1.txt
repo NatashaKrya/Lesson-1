@@ -1,2 +1,2 @@
-first change from main
+first change from у branch_with_conflicts
 second change
